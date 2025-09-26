@@ -1,6 +1,6 @@
-# Mini RAG + Reranker System for Industrial Safety Documents
+## Mini RAG + Reranker System for Industrial Safety Documents
 
-# A complete question-answering service built over 20 industrial safety PDF documents
+### A complete question-answering service built over 20 industrial safety PDF documents
 
 ```bash
 # 1. Create environment & install dependencies
