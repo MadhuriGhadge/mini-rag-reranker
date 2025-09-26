@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "question": "What is ISO 13849?",
+      "expected_keywords": ["iso 13849", "safety", "performance level", "control system"],
+      "difficulty": "easy",
+      "category": "standards"
+    },
+    {
+      "id": 2,
+      "question": "What are the PLC safety requirements for industrial machinery?",
+      "expected_keywords": ["plc", "programmable logic controller", "safety", "requirements"],
+      "difficulty": "medium",
+      "category": "control_systems"
+    },
+    {
+      "id": 3,
+      "question": "How do you calculate Performance Level d for safety systems?",
+      "expected_keywords": ["performance level", "pld", "calculation", "category"],
+      "difficulty": "hard",
+      "category": "risk_assessment"
+    },
+    {
+      "id": 4,
+      "question": "What are the emergency stop standards and requirements?",
+      "expected_keywords": ["emergency stop", "e-stop", "standard", "safety"],
+      "difficulty": "medium",
+      "category": "safety_devices"
+    },
+    {
+      "id": 5,
+      "question": "Describe the risk assessment methodology for industrial machinery",
+      "expected_keywords": ["risk assessment", "methodology", "hazard", "analysis"],
+      "difficulty": "medium",
+      "category": "risk_assessment"
+    },
+    {
+      "id": 6,
+      "question": "What are safety integrity levels and how are they applied?",
+      "expected_keywords": ["safety integrity level", "sil", "functional safety"],
+      "difficulty": "hard",
+      "category": "functional_safety"
+    },
+    {
+      "id": 7,
+      "question": "What are the machine guarding requirements for industrial equipment?",
+      "expected_keywords": ["machine guarding", "guard", "barrier", "protection"],
+      "difficulty": "easy",
+      "category": "physical_safety"
+    },
+    {
+      "id": 8,
+      "question": "Explain lockout tagout procedures for maintenance activities",
+      "expected_keywords": ["lockout", "tagout", "loto", "procedure", "energy isolation"],
+      "difficulty": "medium",
+      "category": "maintenance_safety"
+    }
+  ]
