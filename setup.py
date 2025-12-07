@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Setup script for Mini RAG System
-This script handles the complete setup process from raw PDFs to a running API
-"""
 
 import os
 import sys
